@@ -1,3 +1,5 @@
+# A program that asks the user to order their 3 favourite food items on a menu
+
 print("Please order 3 favourite food items from menu")
 item1 = input("Choose your first food :")
 item2 = input("Choose your second food :")
